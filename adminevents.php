@@ -226,7 +226,7 @@ if(!isset($_SESSION['username'])){
   <!-- Footer -->
   <footer class="bg-black small text-center text-white-50">
     <div class="container">
-      Copyright &copy; Lanier High School 2019<br />
+      Copyright &copy; Siteable Technologies 2019<br />
       Designed by Ian Toole and Natasha Setiadi
     </div>
   </footer>
