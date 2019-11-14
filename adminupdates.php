@@ -62,7 +62,7 @@ if(!isset($_SESSION['username'])){
          
           </li>
         <li class="nav-item">
-            <a class="nav-link" href="adminupdates.php">Updates</a>    
+            <a class="nav-link" href="admin  .php">  </a>    
             </li>
         <li class="nav-item">
             <a class="nav-link" href="profile.php"><?php echo $_SESSION['username'];?></a>
@@ -79,8 +79,8 @@ if(!isset($_SESSION['username'])){
     <div class="container">
       <div class=" row">
         <div class="col-lg-8 mx-auto">
-          <h1 class="text-white mb-4">Updates</h1>
-          <p class="text-white-50">Updates for the art program.</p>
+          <h1 class="text-white mb-4">  </h1>
+          <p class="text-white-50">   for the art program.</p>
         </div>
       </div>
       
@@ -164,12 +164,7 @@ if(!isset($_SESSION['username'])){
       </div>
 
       <div class="social d-flex justify-content-center">
-        <a href="#" class="mx-2">
-          <i class="fab fa-twitter"></i>
-        </a>
-        <a href="#" class="mx-2">
-          <i class="fab fa-facebook-f"></i>
-        </a>
+  
         <a href="#" class="mx-2">
           <i class="fab fa-instagram"></i>
         </a>

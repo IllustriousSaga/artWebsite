@@ -61,7 +61,7 @@ if(!isset($_SESSION['username'])){
          
           </li>
          <li class="nav-item">
-            <a class="nav-link" href="adminupdates.php">Updates</a>
+            <a class="nav-link" href="admin  .php">  </a>
             </li>
         <li class="nav-item">
         <a class="nav-link" href="profile.php"><?php echo $_SESSION['username'];?></a>
@@ -179,7 +179,7 @@ if(!isset($_SESSION['username'])){
         <div class="col-md-10 col-lg-8 mx-auto text-center">
 
           <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
-          <h2 class="text-white mb-5">Subscribe to receive updates!</h2>
+          <h2 class="text-white mb-5">Subscribe to receive   !</h2>
 
           <form class="form-inline d-flex">
             <input type="email" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0" id="inputEmail" placeholder="Enter email address...">
@@ -234,12 +234,7 @@ if(!isset($_SESSION['username'])){
       </div>
 
       <div class="social d-flex justify-content-center">
-        <a href="#" class="mx-2">
-          <i class="fab fa-twitter"></i>
-        </a>
-        <a href="#" class="mx-2">
-          <i class="fab fa-facebook-f"></i>
-        </a>
+  
         <a href="#" class="mx-2">
           <i class="fab fa-instagram"></i>
         </a>

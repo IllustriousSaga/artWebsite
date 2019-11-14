@@ -2396,7 +2396,7 @@
   }
 
   /**
-   * Updates the position of the popper, computing the new offsets and applying
+   *    the position of the popper, computing the new offsets and applying
    * the new style.<br />
    * Prefer `scheduleUpdate` over `update` because of performance reasons.
    * @method
@@ -3900,7 +3900,7 @@
     /**
      * Callback called when the popper is updated. This callback is not called
      * on the initialization/creation of the popper, but only on subsequent
-     * updates.<br />
+     *   .<br />
      * By default, it is set to no-op.<br />
      * Access Popper.js instance with `data.instance`.
      * @prop {onUpdate}
